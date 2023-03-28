@@ -12,4 +12,4 @@ export const message = `- 学无止境
 
 export type Setting = typeof setting
 
-export const resetContinuousDialogue = true
+export const resetContinuousDialogue = false
